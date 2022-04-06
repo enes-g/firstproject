@@ -10,7 +10,7 @@ public class BaseCreditManager {
     }
 
     public void setNumberOfMoney(double numberOfMoney) {
-        if (numberOfMoney >= 1000) {
+        if (numberOfMoney >= 2000) {
             this.numberOfMoney = numberOfMoney;
         } else {
             System.out.println("Ana Para 1000 liradan az olamaz");
