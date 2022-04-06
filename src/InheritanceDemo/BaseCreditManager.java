@@ -24,7 +24,7 @@ public class BaseCreditManager {
 
     public void setMonthInterest(double monthInterest) {
         double maxInterest = 1.50;
-        double minInterest = 0.90;
+        double minInterest = 0.95;
         if (monthInterest >= minInterest && monthInterest <= maxInterest) {
             this.monthInterest = monthInterest;
         } else {
