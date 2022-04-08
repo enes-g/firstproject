@@ -10,7 +10,7 @@ public class BaseCreditManager {
     }
 
     public void setNumberOfMoney(double numberOfMoney) {
-        if (numberOfMoney >= 1000) {
+        if (numberOfMoney >= 2000) {
             this.numberOfMoney = numberOfMoney;
         } else {
             System.out.println("Ana Para 1000 liradan az olamaz");
@@ -24,7 +24,7 @@ public class BaseCreditManager {
 
     public void setMonthInterest(double monthInterest) {
         double maxInterest = 1.50;
-        double minInterest = 0.90;
+        double minInterest = 0.95;
         if (monthInterest >= minInterest && monthInterest <= maxInterest) {
             this.monthInterest = monthInterest;
         } else {
