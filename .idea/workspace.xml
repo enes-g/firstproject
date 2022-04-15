@@ -155,6 +155,7 @@
       <updated>1577044655124</updated>
       <workItem from="1649273143579" duration="11886000" />
       <workItem from="1649400515261" duration="3538000" />
+      <workItem from="1650028890898" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="git commit -m &quot;update setNumberOfMoney&quot;">
       <created>1649274510846</created>
@@ -180,7 +181,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="f-01" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
