@@ -6,18 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1be4823-9229-43fa-b123-4c426f6b9dda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/CepTelefonu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/PolymorphismExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/Telefon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_example/JavaOop/JavaExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_example/JavaOop/JavaExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_example/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_example/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOop/JavaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOop/JavaExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,6 +36,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/iddaaGauge" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="JavaOop" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Car">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -143,6 +137,17 @@
       <updated>1577044655124</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exapmles" />
